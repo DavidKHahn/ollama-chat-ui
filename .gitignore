@@ -1,0 +1,7 @@
+echo "node_modules/
+uploads/
+.env
+vectorDB.sqlite
+" > .gitignore
+# .gitignore
+# This file specifies intentionally untracked files to ignore in the repository.
